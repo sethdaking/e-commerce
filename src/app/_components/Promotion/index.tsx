@@ -40,11 +40,10 @@ const Promotion = () => {
   return (
     <section className={classes.promotion}>
       <div className={classes.textBox}>
-        <h3 className={classes.title}>Deals of the Month</h3>
+        <h3 className={classes.title}>Upcoming Events</h3>
         <p>
-          Get ready for a shopping experience like never before with our Deals of the Month! Every
-          purchase comes with exclusive perks and offers, making this month a celebration of savvy
-          choices and amazing deals. Don't miss out! 🎁🛒
+          Get ready for an exciting fught between the two titans, Shawn Penter and Wardie Maggies.
+          Don't miss a beat when watching this fight, Bet now!!
         </p>
 
         <ul className={classes.stats}>
